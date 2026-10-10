@@ -1,0 +1,55 @@
+feature,importance
+dien_tich_m2_i,0.35478231637376917
+so_phong_ngu_n_i,0.13655891004246173
+chieu_dai_m_i,0.09633683982136867
+"loai_hinh_oh_Nhà ngõ, hẻm",0.05938554972311362
+so_wc_n_i,0.05018781174195996
+chieu_ngang_m_i,0.049898123799012095
+bdg_mean_i,0.03815158331183801
+"loai_hinh_oh_Nhà mặt phố, mặt tiền",0.037045573932714515
+tong_so_tang_i,0.027979801585652667
+mo_ta_len_i,0.022436112343531264
+quan_oh_go-vap,0.017938055508141502
+bdg_std_i,0.014791514430975568
+quan_oh_phu-nhuan,0.012843935669176902
+bdg_slope_i,0.01205689720288384
+phuong_oh_Phường 25,0.008950949536031181
+loai_hinh_oh_Nhà biệt thự,0.006606490047024464
+co_hem_xh_i,0.004186226302143836
+quan_oh_binh-thanh,0.003978656686000259
+co_mat_tien_i,0.0037484978908971507
+phuong_oh_Phường 10,0.003281661068743461
+phuong_oh_Phường 17,0.002520635211831109
+phuong_oh_Phường 5,0.0025121680134976344
+phuong_oh_Phường 13,0.002379414176055198
+phuong_oh_Phường 15,0.0022502851803362176
+phuong_oh_Phường 12,0.0021156074552273352
+loai_hinh_oh_Nhà phố liền kề,0.0021119638593514413
+phuong_oh_Phường 7,0.0020440850405320982
+phuong_oh_Phường 8,0.00197733035128671
+phuong_oh_Phường 26,0.001945408154848705
+phuong_oh_Phường 1,0.001668424755819152
+phuong_oh_Phường 11,0.001662214750441952
+phuong_oh_Phường 2,0.0016456374508935403
+giay_to_phap_ly_oh_NA,0.0016351771238092138
+phuong_oh_Phường 6,0.001614031521952222
+phuong_oh_Phường 9,0.0015757731721710616
+giay_to_phap_ly_oh_Đã có sổ,0.0013838933376055817
+phuong_oh_Phường 4,0.0012520088417826624
+phuong_oh_Phường 16,0.0010922638856174
+phuong_oh_Phường 14,0.0010329093258420199
+phuong_oh_Phường 22,0.0009126667302654769
+phuong_oh_Phường 3,0.000790295512148018
+giay_to_phap_ly_oh_Đang chờ sổ,0.0007899031273773255
+phuong_oh_Phường 19,0.0005774013608589542
+phuong_oh_Phường 28,0.0005266373860437207
+giay_to_phap_ly_oh_Sổ chung / công chứng vi bằng,0.00035345178338252325
+phuong_oh_Phường 24,0.00023551817685144583
+phuong_oh_Phường 21,0.0001389121170895781
+giay_to_phap_ly_oh_Không có sổ,5.739249403362346e-05
+giay_to_phap_ly_oh_Giấy tờ viết tay,4.380099900158755e-05
+phuong_oh_Phường 27,9.28168660667838e-06
+loai_hinh_oh___unknown,0.0
+giay_to_phap_ly_oh___unknown,0.0
+phuong_oh___unknown,0.0
+quan_oh___unknown,0.0

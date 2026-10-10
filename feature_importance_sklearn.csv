@@ -1,0 +1,50 @@
+feature,importance
+"cat__loai_hinh_Nhà ngõ, hẻm",0.14070529
+"cat__loai_hinh_Nhà mặt phố, mặt tiền",0.10587955
+num__dien_tich_m2,0.083305396
+cat__phuong_Phường 25,0.06870363
+cat__quan_go-vap,0.068665154
+cat__quan_phu-nhuan,0.05745179
+num__so_phong_ngu_n,0.05212348
+cat__phuong_Phường 28,0.0251595
+cat__loai_hinh_Nhà biệt thự,0.024260683
+num__bdg_mean,0.02151881
+cat__phuong_Phường 10,0.019245993
+num__chieu_dai_m,0.017402196
+num__so_wc_n,0.016554637
+num__tong_so_tang,0.01640684
+cat__loai_hinh_Nhà phố liền kề,0.016376834
+cat__phuong_Phường 15,0.015313908
+num__chieu_ngang_m,0.014506186
+cat__giay_to_phap_ly_Đã có sổ,0.01435866
+cat__phuong_Phường 12,0.014098301
+cat__phuong_Phường 16,0.014038897
+cat__giay_to_phap_ly_Đang chờ sổ,0.01338322
+cat__phuong_Phường 17,0.010083024
+cat__phuong_Phường 5,0.0096789645
+cat__quan_binh-thanh,0.009536737
+num__co_hem_xh,0.00932507
+cat__phuong_Phường 6,0.009139404
+cat__phuong_Phường 13,0.008864389
+cat__phuong_Phường 26,0.0076077036
+cat__phuong_Phường 11,0.007475174
+cat__phuong_Phường 21,0.0072092284
+cat__phuong_Phường 19,0.0071781958
+num__mo_ta_len,0.0069777267
+cat__phuong_Phường 9,0.006961194
+cat__phuong_Phường 7,0.006958179
+cat__phuong_Phường 4,0.0067483224
+num__bdg_std,0.0065199984
+cat__phuong_Phường 1,0.0065023587
+cat__phuong_Phường 14,0.006474295
+cat__giay_to_phap_ly_Sổ chung / công chứng vi bằng,0.0064200466
+cat__phuong_Phường 22,0.0061404607
+num__bdg_slope,0.0061313165
+cat__phuong_Phường 8,0.005664004
+num__co_mat_tien,0.005454377
+cat__phuong_Phường 3,0.0054164035
+cat__phuong_Phường 27,0.004274511
+cat__phuong_Phường 2,0.003957555
+cat__phuong_Phường 24,0.0038282156
+cat__giay_to_phap_ly_Không có sổ,1.4203461e-05
+cat__giay_to_phap_ly_Giấy tờ viết tay,0.0
